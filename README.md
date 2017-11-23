@@ -8,7 +8,6 @@ popular movies and movies that are currently now showing.
 # Instruction
 1. npm install -g @angular/cli
 2. ng serve --open
-3. 
 
 Website Link: https://movie-finder-b2be7.firebaseapp.com/
 
